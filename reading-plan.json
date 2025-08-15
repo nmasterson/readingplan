@@ -1,8 +1,2192 @@
 {
+  "2025-08-09": [
+    "Genesis 2",
+    "Psalm 2",
+    "Acts 2",
+    "Matthew 2"
+  ],
   "2025-08-10": [
-    "Exodus 1:8-14,22",
-    "Psalm 124:1-8",
-    "",
-    "Matthew 10:34-11:1"
+    "Genesis 2",
+    "Psalm 2",
+    "Acts 2",
+    "Matthew 2"
+  ],
+  "2025-08-11": [
+    "Genesis 3",
+    "Psalm 3",
+    "Acts 3",
+    "Matthew 3"
+  ],
+  "2025-08-12": [
+    "Genesis 4",
+    "Psalm 4",
+    "Acts 4",
+    "Matthew 4"
+  ],
+  "2025-08-13": [
+    "Genesis 5",
+    "Psalm 5",
+    "Acts 5",
+    "Matthew 5"
+  ],
+  "2025-08-14": [
+    "Genesis 6",
+    "Psalm 6",
+    "Acts 6",
+    "Matthew 6"
+  ],
+  "2025-08-15": [
+    "Genesis 7",
+    "Psalm 7",
+    "Acts 7",
+    "Matthew 7"
+  ],
+  "2025-08-16": [
+    "Genesis 9",
+    "Psalm 9",
+    "Acts 9",
+    "Matthew 9"
+  ],
+  "2025-08-17": [
+    "Genesis 9",
+    "Psalm 9",
+    "Acts 9",
+    "Matthew 9"
+  ],
+  "2025-08-18": [
+    "Genesis 10",
+    "Psalm 10",
+    "Acts 10",
+    "Matthew 10"
+  ],
+  "2025-08-19": [
+    "Genesis 11",
+    "Psalm 11",
+    "Acts 11",
+    "Matthew 11"
+  ],
+  "2025-08-20": [
+    "Genesis 12",
+    "Psalm 12",
+    "Acts 12",
+    "Matthew 12"
+  ],
+  "2025-08-21": [
+    "Genesis 13",
+    "Psalm 13",
+    "Acts 13",
+    "Matthew 13"
+  ],
+  "2025-08-22": [
+    "Genesis 14",
+    "Psalm 14",
+    "Acts 14",
+    "Matthew 14"
+  ],
+  "2025-08-23": [
+    "Genesis 16",
+    "Psalm 16",
+    "Acts 16",
+    "Matthew 16"
+  ],
+  "2025-08-24": [
+    "Genesis 16",
+    "Psalm 16",
+    "Acts 16",
+    "Matthew 16"
+  ],
+  "2025-08-25": [
+    "Genesis 17",
+    "Psalm 17",
+    "Acts 17",
+    "Matthew 17"
+  ],
+  "2025-08-26": [
+    "Genesis 18",
+    "Psalm 18",
+    "Acts 18",
+    "Matthew 18"
+  ],
+  "2025-08-27": [
+    "Genesis 19",
+    "Psalm 19",
+    "Acts 19",
+    "Matthew 19"
+  ],
+  "2025-08-28": [
+    "Genesis 20",
+    "Psalm 20",
+    "Acts 20",
+    "Matthew 20"
+  ],
+  "2025-08-29": [
+    "Genesis 21",
+    "Psalm 21",
+    "Acts 21",
+    "Matthew 21"
+  ],
+  "2025-08-30": [
+    "Genesis 23",
+    "Psalm 23",
+    "Acts 23",
+    "Matthew 23"
+  ],
+  "2025-08-31": [
+    "Genesis 23",
+    "Psalm 23",
+    "Acts 23",
+    "Matthew 23"
+  ],
+  "2025-09-01": [
+    "Genesis 24",
+    "Psalm 24",
+    "Acts 24",
+    "Matthew 24"
+  ],
+  "2025-09-02": [
+    "Genesis 25",
+    "Psalm 25",
+    "Acts 25",
+    "Matthew 25"
+  ],
+  "2025-09-03": [
+    "Genesis 26",
+    "Psalm 26",
+    "Acts 26",
+    "Matthew 26"
+  ],
+  "2025-09-04": [
+    "Genesis 27",
+    "Psalm 27",
+    "Acts 27",
+    "Matthew 27"
+  ],
+  "2025-09-05": [
+    "Genesis 28",
+    "Psalm 28",
+    "Acts 28",
+    "Matthew 28"
+  ],
+  "2025-09-06": [
+    "Genesis 30",
+    "Psalm 30",
+    "Romans 2",
+    "Mark 2"
+  ],
+  "2025-09-07": [
+    "Genesis 30",
+    "Psalm 30",
+    "Romans 2",
+    "Mark 2"
+  ],
+  "2025-09-08": [
+    "Genesis 31",
+    "Psalm 31",
+    "Romans 3",
+    "Mark 3"
+  ],
+  "2025-09-09": [
+    "Genesis 32",
+    "Psalm 32",
+    "Romans 4",
+    "Mark 4"
+  ],
+  "2025-09-10": [
+    "Genesis 33",
+    "Psalm 33",
+    "Romans 5",
+    "Mark 5"
+  ],
+  "2025-09-11": [
+    "Genesis 34",
+    "Psalm 34",
+    "Romans 6",
+    "Mark 6"
+  ],
+  "2025-09-12": [
+    "Genesis 35",
+    "Psalm 35",
+    "Romans 7",
+    "Mark 7"
+  ],
+  "2025-09-13": [
+    "Genesis 37",
+    "Psalm 37",
+    "Romans 9",
+    "Mark 9"
+  ],
+  "2025-09-14": [
+    "Genesis 37",
+    "Psalm 37",
+    "Romans 9",
+    "Mark 9"
+  ],
+  "2025-09-15": [
+    "Genesis 38",
+    "Psalm 38",
+    "Romans 10",
+    "Mark 10"
+  ],
+  "2025-09-16": [
+    "Genesis 39",
+    "Psalm 39",
+    "Romans 11",
+    "Mark 11"
+  ],
+  "2025-09-17": [
+    "Genesis 40",
+    "Psalm 40",
+    "Romans 12",
+    "Mark 12"
+  ],
+  "2025-09-18": [
+    "Genesis 41",
+    "Psalm 41",
+    "Romans 13",
+    "Mark 13"
+  ],
+  "2025-09-19": [
+    "Genesis 42",
+    "Psalm 42",
+    "Romans 14",
+    "Mark 14"
+  ],
+  "2025-09-20": [
+    "Genesis 44",
+    "Psalm 44",
+    "Romans 16",
+    "Mark 16"
+  ],
+  "2025-09-21": [
+    "Genesis 44",
+    "Psalm 44",
+    "Romans 16",
+    "Mark 16"
+  ],
+  "2025-09-22": [
+    "Genesis 45",
+    "Psalm 45",
+    "1 Corinthians 1",
+    "Luke 1"
+  ],
+  "2025-09-23": [
+    "Genesis 46",
+    "Psalm 46",
+    "1 Corinthians 2",
+    "Luke 2"
+  ],
+  "2025-09-24": [
+    "Genesis 47",
+    "Psalm 47",
+    "1 Corinthians 3",
+    "Luke 3"
+  ],
+  "2025-09-25": [
+    "Genesis 48",
+    "Psalm 48",
+    "1 Corinthians 4",
+    "Luke 4"
+  ],
+  "2025-09-26": [
+    "Genesis 49",
+    "Psalm 49",
+    "1 Corinthians 5",
+    "Luke 5"
+  ],
+  "2025-09-27": [
+    "Exodus 1",
+    "Psalm 51",
+    "1 Corinthians 7",
+    "Luke 7"
+  ],
+  "2025-09-28": [
+    "Exodus 1",
+    "Psalm 51",
+    "1 Corinthians 7",
+    "Luke 7"
+  ],
+  "2025-09-29": [
+    "Exodus 2",
+    "Psalm 52",
+    "1 Corinthians 8",
+    "Luke 8"
+  ],
+  "2025-09-30": [
+    "Exodus 3",
+    "Psalm 53",
+    "1 Corinthians 9",
+    "Luke 9"
+  ],
+  "2025-10-01": [
+    "Exodus 4",
+    "Psalm 54",
+    "1 Corinthians 10",
+    "Luke 10"
+  ],
+  "2025-10-02": [
+    "Exodus 5",
+    "Psalm 55",
+    "1 Corinthians 11",
+    "Luke 11"
+  ],
+  "2025-10-03": [
+    "Exodus 6",
+    "Psalm 56",
+    "1 Corinthians 12",
+    "Luke 12"
+  ],
+  "2025-10-04": [
+    "Exodus 8",
+    "Psalm 58",
+    "1 Corinthians 14",
+    "Luke 14"
+  ],
+  "2025-10-05": [
+    "Exodus 8",
+    "Psalm 58",
+    "1 Corinthians 14",
+    "Luke 14"
+  ],
+  "2025-10-06": [
+    "Exodus 9",
+    "Psalm 59",
+    "1 Corinthians 15",
+    "Luke 15"
+  ],
+  "2025-10-07": [
+    "Exodus 10",
+    "Psalm 60",
+    "1 Corinthians 16",
+    "Luke 16"
+  ],
+  "2025-10-08": [
+    "Exodus 11",
+    "Psalm 61",
+    "2 Corinthians 1",
+    "Luke 17"
+  ],
+  "2025-10-09": [
+    "Exodus 12",
+    "Psalm 62",
+    "2 Corinthians 2",
+    "Luke 18"
+  ],
+  "2025-10-10": [
+    "Exodus 13",
+    "Psalm 63",
+    "2 Corinthians 3",
+    "Luke 19"
+  ],
+  "2025-10-11": [
+    "Exodus 15",
+    "Psalm 65",
+    "2 Corinthians 5",
+    "Luke 21"
+  ],
+  "2025-10-12": [
+    "Exodus 15",
+    "Psalm 65",
+    "2 Corinthians 5",
+    "Luke 21"
+  ],
+  "2025-10-13": [
+    "Exodus 16",
+    "Psalm 66",
+    "2 Corinthians 6",
+    "Luke 22"
+  ],
+  "2025-10-14": [
+    "Exodus 17",
+    "Psalm 67",
+    "2 Corinthians 7",
+    "Luke 23"
+  ],
+  "2025-10-15": [
+    "Exodus 18",
+    "Psalm 68",
+    "2 Corinthians 8",
+    "Luke 24"
+  ],
+  "2025-10-16": [
+    "Exodus 19",
+    "Psalm 69",
+    "2 Corinthians 9",
+    "John 1"
+  ],
+  "2025-10-17": [
+    "Exodus 20",
+    "Psalm 70",
+    "2 Corinthians 10",
+    "John 2"
+  ],
+  "2025-10-18": [
+    "Exodus 22",
+    "Psalm 72",
+    "2 Corinthians 12",
+    "John 4"
+  ],
+  "2025-10-19": [
+    "Exodus 22",
+    "Psalm 72",
+    "2 Corinthians 12",
+    "John 4"
+  ],
+  "2025-10-20": [
+    "Exodus 23",
+    "Psalm 73",
+    "2 Corinthians 13",
+    "John 5"
+  ],
+  "2025-10-21": [
+    "Exodus 24",
+    "Psalm 74",
+    "Galatians 1",
+    "John 6"
+  ],
+  "2025-10-22": [
+    "Exodus 25",
+    "Psalm 75",
+    "Galatians 2",
+    "John 7"
+  ],
+  "2025-10-23": [
+    "Exodus 26",
+    "Psalm 76",
+    "Galatians 3",
+    "John 8"
+  ],
+  "2025-10-24": [
+    "Exodus 27",
+    "Psalm 77",
+    "Galatians 4",
+    "John 9"
+  ],
+  "2025-10-25": [
+    "Exodus 29",
+    "Psalm 79",
+    "Galatians 6",
+    "John 11"
+  ],
+  "2025-10-26": [
+    "Exodus 29",
+    "Psalm 79",
+    "Galatians 6",
+    "John 11"
+  ],
+  "2025-10-27": [
+    "Exodus 30",
+    "Psalm 80",
+    "Ephesians 1",
+    "John 12"
+  ],
+  "2025-10-28": [
+    "Exodus 31",
+    "Psalm 81",
+    "Ephesians 2",
+    "John 13"
+  ],
+  "2025-10-29": [
+    "Exodus 32",
+    "Psalm 82",
+    "Ephesians 3",
+    "John 14"
+  ],
+  "2025-10-30": [
+    "Exodus 33",
+    "Psalm 83",
+    "Ephesians 4",
+    "John 15"
+  ],
+  "2025-10-31": [
+    "Exodus 34",
+    "Psalm 84",
+    "Ephesians 5",
+    "John 16"
+  ],
+  "2025-11-01": [
+    "Exodus 36",
+    "Psalm 86",
+    "Philippians 1",
+    "John 18"
+  ],
+  "2025-11-02": [
+    "Exodus 36",
+    "Psalm 86",
+    "Philippians 1",
+    "John 18"
+  ],
+  "2025-11-03": [
+    "Exodus 37",
+    "Psalm 87",
+    "Philippians 2",
+    "John 19"
+  ],
+  "2025-11-04": [
+    "Exodus 38",
+    "Psalm 88",
+    "Philippians 3",
+    "John 20"
+  ],
+  "2025-11-05": [
+    "Exodus 39",
+    "Psalm 89",
+    "Philippians 4",
+    "John 21"
+  ],
+  "2025-11-06": [
+    "Exodus 40",
+    "Psalm 90",
+    "Colossians 1",
+    "Matthew 1"
+  ],
+  "2025-11-07": [
+    "Leviticus 1",
+    "Psalm 91",
+    "Colossians 2",
+    "Matthew 2"
+  ],
+  "2025-11-08": [
+    "Leviticus 3",
+    "Psalm 93",
+    "Colossians 4",
+    "Matthew 4"
+  ],
+  "2025-11-09": [
+    "Leviticus 3",
+    "Psalm 93",
+    "Colossians 4",
+    "Matthew 4"
+  ],
+  "2025-11-10": [
+    "Leviticus 4",
+    "Psalm 94",
+    "1 Thessalonians 1",
+    "Matthew 5"
+  ],
+  "2025-11-11": [
+    "Leviticus 5",
+    "Psalm 95",
+    "1 Thessalonians 2",
+    "Matthew 6"
+  ],
+  "2025-11-12": [
+    "Leviticus 6",
+    "Psalm 96",
+    "1 Thessalonians 3",
+    "Matthew 7"
+  ],
+  "2025-11-13": [
+    "Leviticus 7",
+    "Psalm 97",
+    "1 Thessalonians 4",
+    "Matthew 8"
+  ],
+  "2025-11-14": [
+    "Leviticus 8",
+    "Psalm 98",
+    "1 Thessalonians 5",
+    "Matthew 9"
+  ],
+  "2025-11-15": [
+    "Leviticus 10",
+    "Psalm 100",
+    "2 Thessalonians 2",
+    "Matthew 11"
+  ],
+  "2025-11-16": [
+    "Leviticus 10",
+    "Psalm 100",
+    "2 Thessalonians 2",
+    "Matthew 11"
+  ],
+  "2025-11-17": [
+    "Leviticus 11",
+    "Psalm 101",
+    "2 Thessalonians 3",
+    "Matthew 12"
+  ],
+  "2025-11-18": [
+    "Leviticus 12",
+    "Psalm 102",
+    "1 Timothy 1",
+    "Matthew 13"
+  ],
+  "2025-11-19": [
+    "Leviticus 13",
+    "Psalm 103",
+    "1 Timothy 2",
+    "Matthew 14"
+  ],
+  "2025-11-20": [
+    "Leviticus 14",
+    "Psalm 104",
+    "1 Timothy 3",
+    "Matthew 15"
+  ],
+  "2025-11-21": [
+    "Leviticus 15",
+    "Psalm 105",
+    "1 Timothy 4",
+    "Matthew 16"
+  ],
+  "2025-11-22": [
+    "Leviticus 17",
+    "Psalm 107",
+    "1 Timothy 6",
+    "Matthew 18"
+  ],
+  "2025-11-23": [
+    "Leviticus 17",
+    "Psalm 107",
+    "1 Timothy 6",
+    "Matthew 18"
+  ],
+  "2025-11-24": [
+    "Leviticus 18",
+    "Psalm 108",
+    "2 Timothy 1",
+    "Matthew 19"
+  ],
+  "2025-11-25": [
+    "Leviticus 19",
+    "Psalm 109",
+    "2 Timothy 2",
+    "Matthew 20"
+  ],
+  "2025-11-26": [
+    "Leviticus 20",
+    "Psalm 110",
+    "2 Timothy 3",
+    "Matthew 21"
+  ],
+  "2025-11-27": [
+    "Leviticus 21",
+    "Psalm 111",
+    "2 Timothy 4",
+    "Matthew 22"
+  ],
+  "2025-11-28": [
+    "Leviticus 22",
+    "Psalm 112",
+    "Titus 1",
+    "Matthew 23"
+  ],
+  "2025-11-29": [
+    "Leviticus 24",
+    "Psalm 114",
+    "Titus 3",
+    "Matthew 25"
+  ],
+  "2025-11-30": [
+    "Leviticus 24",
+    "Psalm 114",
+    "Titus 3",
+    "Matthew 25"
+  ],
+  "2025-12-01": [
+    "Leviticus 25",
+    "Psalm 115",
+    "Philemon 1",
+    "Matthew 26"
+  ],
+  "2025-12-02": [
+    "Leviticus 26",
+    "Psalm 116",
+    "Hebrews 1",
+    "Matthew 27"
+  ],
+  "2025-12-03": [
+    "Leviticus 27",
+    "Psalm 117",
+    "Hebrews 2",
+    "Matthew 28"
+  ],
+  "2025-12-04": [
+    "Numbers 1",
+    "Psalm 118",
+    "Hebrews 3",
+    "Mark 1"
+  ],
+  "2025-12-05": [
+    "Numbers 2",
+    "Psalm 119",
+    "Hebrews 4",
+    "Mark 2"
+  ],
+  "2025-12-06": [
+    "Numbers 4",
+    "Psalm 121",
+    "Hebrews 6",
+    "Mark 4"
+  ],
+  "2025-12-07": [
+    "Numbers 4",
+    "Psalm 121",
+    "Hebrews 6",
+    "Mark 4"
+  ],
+  "2025-12-08": [
+    "Numbers 5",
+    "Psalm 122",
+    "Hebrews 7",
+    "Mark 5"
+  ],
+  "2025-12-09": [
+    "Numbers 6",
+    "Psalm 123",
+    "Hebrews 8",
+    "Mark 6"
+  ],
+  "2025-12-10": [
+    "Numbers 7",
+    "Psalm 124",
+    "Hebrews 9",
+    "Mark 7"
+  ],
+  "2025-12-11": [
+    "Numbers 8",
+    "Psalm 125",
+    "Hebrews 10",
+    "Mark 8"
+  ],
+  "2025-12-12": [
+    "Numbers 9",
+    "Psalm 126",
+    "Hebrews 11",
+    "Mark 9"
+  ],
+  "2025-12-13": [
+    "Numbers 11",
+    "Psalm 128",
+    "Hebrews 13",
+    "Mark 11"
+  ],
+  "2025-12-14": [
+    "Numbers 11",
+    "Psalm 128",
+    "Hebrews 13",
+    "Mark 11"
+  ],
+  "2025-12-15": [
+    "Numbers 12",
+    "Psalm 129",
+    "James 1",
+    "Mark 12"
+  ],
+  "2025-12-16": [
+    "Numbers 13",
+    "Psalm 130",
+    "James 2",
+    "Mark 13"
+  ],
+  "2025-12-17": [
+    "Numbers 14",
+    "Psalm 131",
+    "James 3",
+    "Mark 14"
+  ],
+  "2025-12-18": [
+    "Numbers 15",
+    "Psalm 132",
+    "James 4",
+    "Mark 15"
+  ],
+  "2025-12-19": [
+    "Numbers 16",
+    "Psalm 133",
+    "James 5",
+    "Mark 16"
+  ],
+  "2025-12-20": [
+    "Numbers 18",
+    "Psalm 135",
+    "1 Peter 2",
+    "Luke 2"
+  ],
+  "2025-12-21": [
+    "Numbers 18",
+    "Psalm 135",
+    "1 Peter 2",
+    "Luke 2"
+  ],
+  "2025-12-22": [
+    "Numbers 19",
+    "Psalm 136",
+    "1 Peter 3",
+    "Luke 3"
+  ],
+  "2025-12-23": [
+    "Numbers 20",
+    "Psalm 137",
+    "1 Peter 4",
+    "Luke 4"
+  ],
+  "2025-12-24": [
+    "Numbers 21",
+    "Psalm 138",
+    "1 Peter 5",
+    "Luke 5"
+  ],
+  "2025-12-25": [
+    "Numbers 22",
+    "Psalm 139",
+    "2 Peter 1",
+    "Luke 6"
+  ],
+  "2025-12-26": [
+    "Numbers 23",
+    "Psalm 140",
+    "2 Peter 2",
+    "Luke 7"
+  ],
+  "2025-12-27": [
+    "Numbers 25",
+    "Psalm 142",
+    "1 John 1",
+    "Luke 9"
+  ],
+  "2025-12-28": [
+    "Numbers 25",
+    "Psalm 142",
+    "1 John 1",
+    "Luke 9"
+  ],
+  "2025-12-29": [
+    "Numbers 26",
+    "Psalm 143",
+    "1 John 2",
+    "Luke 10"
+  ],
+  "2025-12-30": [
+    "Numbers 27",
+    "Psalm 144",
+    "1 John 3",
+    "Luke 11"
+  ],
+  "2025-12-31": [
+    "Numbers 28",
+    "Psalm 145",
+    "1 John 4",
+    "Luke 12"
+  ],
+  "2026-01-01": [
+    "Numbers 29",
+    "Psalm 146",
+    "1 John 5",
+    "Luke 13"
+  ],
+  "2026-01-02": [
+    "Numbers 30",
+    "Psalm 147",
+    "2 John 1",
+    "Luke 14"
+  ],
+  "2026-01-03": [
+    "Numbers 32",
+    "Psalm 149",
+    "Jude 1",
+    "Luke 16"
+  ],
+  "2026-01-04": [
+    "Numbers 32",
+    "Psalm 149",
+    "Jude 1",
+    "Luke 16"
+  ],
+  "2026-01-05": [
+    "Numbers 33",
+    "Psalm 150",
+    "Revelation 1",
+    "Luke 17"
+  ],
+  "2026-01-06": [
+    "Numbers 34",
+    "Psalm 1",
+    "Revelation 2",
+    "Luke 18"
+  ],
+  "2026-01-07": [
+    "Numbers 35",
+    "Psalm 2",
+    "Revelation 3",
+    "Luke 19"
+  ],
+  "2026-01-08": [
+    "Numbers 36",
+    "Psalm 3",
+    "Revelation 4",
+    "Luke 20"
+  ],
+  "2026-01-09": [
+    "Deuteronomy 1",
+    "Psalm 4",
+    "Revelation 5",
+    "Luke 21"
+  ],
+  "2026-01-10": [
+    "Deuteronomy 3",
+    "Psalm 6",
+    "Revelation 7",
+    "Luke 23"
+  ],
+  "2026-01-11": [
+    "Deuteronomy 3",
+    "Psalm 6",
+    "Revelation 7",
+    "Luke 23"
+  ],
+  "2026-01-12": [
+    "Deuteronomy 4",
+    "Psalm 7",
+    "Revelation 8",
+    "Luke 24"
+  ],
+  "2026-01-13": [
+    "Deuteronomy 5",
+    "Psalm 8",
+    "Revelation 9",
+    "John 1"
+  ],
+  "2026-01-14": [
+    "Deuteronomy 6",
+    "Psalm 9",
+    "Revelation 10",
+    "John 2"
+  ],
+  "2026-01-15": [
+    "Deuteronomy 7",
+    "Psalm 10",
+    "Revelation 11",
+    "John 3"
+  ],
+  "2026-01-16": [
+    "Deuteronomy 8",
+    "Psalm 11",
+    "Revelation 12",
+    "John 4"
+  ],
+  "2026-01-17": [
+    "Deuteronomy 10",
+    "Psalm 13",
+    "Revelation 14",
+    "John 6"
+  ],
+  "2026-01-18": [
+    "Deuteronomy 10",
+    "Psalm 13",
+    "Revelation 14",
+    "John 6"
+  ],
+  "2026-01-19": [
+    "Deuteronomy 11",
+    "Psalm 14",
+    "Revelation 15",
+    "John 7"
+  ],
+  "2026-01-20": [
+    "Deuteronomy 12",
+    "Psalm 15",
+    "Revelation 16",
+    "John 8"
+  ],
+  "2026-01-21": [
+    "Deuteronomy 13",
+    "Psalm 16",
+    "Revelation 17",
+    "John 9"
+  ],
+  "2026-01-22": [
+    "Deuteronomy 14",
+    "Psalm 17",
+    "Revelation 18",
+    "John 10"
+  ],
+  "2026-01-23": [
+    "Deuteronomy 15",
+    "Psalm 18",
+    "Revelation 19",
+    "John 11"
+  ],
+  "2026-01-24": [
+    "Deuteronomy 17",
+    "Psalm 20",
+    "Revelation 21",
+    "John 13"
+  ],
+  "2026-01-25": [
+    "Deuteronomy 17",
+    "Psalm 20",
+    "Revelation 21",
+    "John 13"
+  ],
+  "2026-01-26": [
+    "Deuteronomy 18",
+    "Psalm 21",
+    "Revelation 22",
+    "John 14"
+  ],
+  "2026-01-27": [
+    "Deuteronomy 19",
+    "Psalm 22",
+    "Acts 1",
+    "John 15"
+  ],
+  "2026-01-28": [
+    "Deuteronomy 20",
+    "Psalm 23",
+    "Acts 2",
+    "John 16"
+  ],
+  "2026-01-29": [
+    "Deuteronomy 21",
+    "Psalm 24",
+    "Acts 3",
+    "John 17"
+  ],
+  "2026-01-30": [
+    "Deuteronomy 22",
+    "Psalm 25",
+    "Acts 4",
+    "John 18"
+  ],
+  "2026-01-31": [
+    "Deuteronomy 24",
+    "Psalm 27",
+    "Acts 6",
+    "John 20"
+  ],
+  "2026-02-01": [
+    "Deuteronomy 24",
+    "Psalm 27",
+    "Acts 6",
+    "John 20"
+  ],
+  "2026-02-02": [
+    "Deuteronomy 25",
+    "Psalm 28",
+    "Acts 7",
+    "John 21"
+  ],
+  "2026-02-03": [
+    "Deuteronomy 26",
+    "Psalm 29",
+    "Acts 8",
+    "Matthew 1"
+  ],
+  "2026-02-04": [
+    "Deuteronomy 27",
+    "Psalm 30",
+    "Acts 9",
+    "Matthew 2"
+  ],
+  "2026-02-05": [
+    "Deuteronomy 28",
+    "Psalm 31",
+    "Acts 10",
+    "Matthew 3"
+  ],
+  "2026-02-06": [
+    "Deuteronomy 29",
+    "Psalm 32",
+    "Acts 11",
+    "Matthew 4"
+  ],
+  "2026-02-07": [
+    "Deuteronomy 31",
+    "Psalm 34",
+    "Acts 13",
+    "Matthew 6"
+  ],
+  "2026-02-08": [
+    "Deuteronomy 31",
+    "Psalm 34",
+    "Acts 13",
+    "Matthew 6"
+  ],
+  "2026-02-09": [
+    "Deuteronomy 32",
+    "Psalm 35",
+    "Acts 14",
+    "Matthew 7"
+  ],
+  "2026-02-10": [
+    "Deuteronomy 33",
+    "Psalm 36",
+    "Acts 15",
+    "Matthew 8"
+  ],
+  "2026-02-11": [
+    "Deuteronomy 34",
+    "Psalm 37",
+    "Acts 16",
+    "Matthew 9"
+  ],
+  "2026-02-12": [
+    "Joshua 1",
+    "Psalm 38",
+    "Acts 17",
+    "Matthew 10"
+  ],
+  "2026-02-13": [
+    "Joshua 2",
+    "Psalm 39",
+    "Acts 18",
+    "Matthew 11"
+  ],
+  "2026-02-14": [
+    "Joshua 4",
+    "Psalm 41",
+    "Acts 20",
+    "Matthew 13"
+  ],
+  "2026-02-15": [
+    "Joshua 4",
+    "Psalm 41",
+    "Acts 20",
+    "Matthew 13"
+  ],
+  "2026-02-16": [
+    "Joshua 5",
+    "Psalm 42",
+    "Acts 21",
+    "Matthew 14"
+  ],
+  "2026-02-17": [
+    "Joshua 6",
+    "Psalm 43",
+    "Acts 22",
+    "Matthew 15"
+  ],
+  "2026-02-18": [
+    "Joshua 7",
+    "Psalm 44",
+    "Acts 23",
+    "Matthew 16"
+  ],
+  "2026-02-19": [
+    "Joshua 8",
+    "Psalm 45",
+    "Acts 24",
+    "Matthew 17"
+  ],
+  "2026-02-20": [
+    "Joshua 9",
+    "Psalm 46",
+    "Acts 25",
+    "Matthew 18"
+  ],
+  "2026-02-21": [
+    "Joshua 11",
+    "Psalm 48",
+    "Acts 27",
+    "Matthew 20"
+  ],
+  "2026-02-22": [
+    "Joshua 11",
+    "Psalm 48",
+    "Acts 27",
+    "Matthew 20"
+  ],
+  "2026-02-23": [
+    "Joshua 12",
+    "Psalm 49",
+    "Acts 28",
+    "Matthew 21"
+  ],
+  "2026-02-24": [
+    "Joshua 13",
+    "Psalm 50",
+    "Romans 1",
+    "Matthew 22"
+  ],
+  "2026-02-25": [
+    "Joshua 14",
+    "Psalm 51",
+    "Romans 2",
+    "Matthew 23"
+  ],
+  "2026-02-26": [
+    "Joshua 15",
+    "Psalm 52",
+    "Romans 3",
+    "Matthew 24"
+  ],
+  "2026-02-27": [
+    "Joshua 16",
+    "Psalm 53",
+    "Romans 4",
+    "Matthew 25"
+  ],
+  "2026-02-28": [
+    "Joshua 18",
+    "Psalm 55",
+    "Romans 6",
+    "Matthew 27"
+  ],
+  "2026-03-01": [
+    "Joshua 18",
+    "Psalm 55",
+    "Romans 6",
+    "Matthew 27"
+  ],
+  "2026-03-02": [
+    "Joshua 19",
+    "Psalm 56",
+    "Romans 7",
+    "Matthew 28"
+  ],
+  "2026-03-03": [
+    "Joshua 20",
+    "Psalm 57",
+    "Romans 8",
+    "Mark 1"
+  ],
+  "2026-03-04": [
+    "Joshua 21",
+    "Psalm 58",
+    "Romans 9",
+    "Mark 2"
+  ],
+  "2026-03-05": [
+    "Joshua 22",
+    "Psalm 59",
+    "Romans 10",
+    "Mark 3"
+  ],
+  "2026-03-06": [
+    "Joshua 23",
+    "Psalm 60",
+    "Romans 11",
+    "Mark 4"
+  ],
+  "2026-03-07": [
+    "Judges 1",
+    "Psalm 62",
+    "Romans 13",
+    "Mark 6"
+  ],
+  "2026-03-08": [
+    "Judges 1",
+    "Psalm 62",
+    "Romans 13",
+    "Mark 6"
+  ],
+  "2026-03-09": [
+    "Judges 2",
+    "Psalm 63",
+    "Romans 14",
+    "Mark 7"
+  ],
+  "2026-03-10": [
+    "Judges 3",
+    "Psalm 64",
+    "Romans 15",
+    "Mark 8"
+  ],
+  "2026-03-11": [
+    "Judges 4",
+    "Psalm 65",
+    "Romans 16",
+    "Mark 9"
+  ],
+  "2026-03-12": [
+    "Judges 5",
+    "Psalm 66",
+    "1 Corinthians 1",
+    "Mark 10"
+  ],
+  "2026-03-13": [
+    "Judges 6",
+    "Psalm 67",
+    "1 Corinthians 2",
+    "Mark 11"
+  ],
+  "2026-03-14": [
+    "Judges 8",
+    "Psalm 69",
+    "1 Corinthians 4",
+    "Mark 13"
+  ],
+  "2026-03-15": [
+    "Judges 8",
+    "Psalm 69",
+    "1 Corinthians 4",
+    "Mark 13"
+  ],
+  "2026-03-16": [
+    "Judges 9",
+    "Psalm 70",
+    "1 Corinthians 5",
+    "Mark 14"
+  ],
+  "2026-03-17": [
+    "Judges 10",
+    "Psalm 71",
+    "1 Corinthians 6",
+    "Mark 15"
+  ],
+  "2026-03-18": [
+    "Judges 11",
+    "Psalm 72",
+    "1 Corinthians 7",
+    "Mark 16"
+  ],
+  "2026-03-19": [
+    "Judges 12",
+    "Psalm 73",
+    "1 Corinthians 8",
+    "Luke 1"
+  ],
+  "2026-03-20": [
+    "Judges 13",
+    "Psalm 74",
+    "1 Corinthians 9",
+    "Luke 2"
+  ],
+  "2026-03-21": [
+    "Judges 15",
+    "Psalm 76",
+    "1 Corinthians 11",
+    "Luke 4"
+  ],
+  "2026-03-22": [
+    "Judges 15",
+    "Psalm 76",
+    "1 Corinthians 11",
+    "Luke 4"
+  ],
+  "2026-03-23": [
+    "Judges 16",
+    "Psalm 77",
+    "1 Corinthians 12",
+    "Luke 5"
+  ],
+  "2026-03-24": [
+    "Judges 17",
+    "Psalm 78",
+    "1 Corinthians 13",
+    "Luke 6"
+  ],
+  "2026-03-25": [
+    "Judges 18",
+    "Psalm 79",
+    "1 Corinthians 14",
+    "Luke 7"
+  ],
+  "2026-03-26": [
+    "Judges 19",
+    "Psalm 80",
+    "1 Corinthians 15",
+    "Luke 8"
+  ],
+  "2026-03-27": [
+    "Judges 20",
+    "Psalm 81",
+    "1 Corinthians 16",
+    "Luke 9"
+  ],
+  "2026-03-28": [
+    "Ruth 1",
+    "Psalm 83",
+    "2 Corinthians 2",
+    "Luke 11"
+  ],
+  "2026-03-29": [
+    "Ruth 1",
+    "Psalm 83",
+    "2 Corinthians 2",
+    "Luke 11"
+  ],
+  "2026-03-30": [
+    "Ruth 2",
+    "Psalm 84",
+    "2 Corinthians 3",
+    "Luke 12"
+  ],
+  "2026-03-31": [
+    "Ruth 3",
+    "Psalm 85",
+    "2 Corinthians 4",
+    "Luke 13"
+  ],
+  "2026-04-01": [
+    "Ruth 4",
+    "Psalm 86",
+    "2 Corinthians 5",
+    "Luke 14"
+  ],
+  "2026-04-02": [
+    "1 Samuel 1",
+    "Psalm 87",
+    "2 Corinthians 6",
+    "Luke 15"
+  ],
+  "2026-04-03": [
+    "1 Samuel 2",
+    "Psalm 88",
+    "2 Corinthians 7",
+    "Luke 16"
+  ],
+  "2026-04-04": [
+    "1 Samuel 4",
+    "Psalm 90",
+    "2 Corinthians 9",
+    "Luke 18"
+  ],
+  "2026-04-05": [
+    "1 Samuel 4",
+    "Psalm 90",
+    "2 Corinthians 9",
+    "Luke 18"
+  ],
+  "2026-04-06": [
+    "1 Samuel 5",
+    "Psalm 91",
+    "2 Corinthians 10",
+    "Luke 19"
+  ],
+  "2026-04-07": [
+    "1 Samuel 6",
+    "Psalm 92",
+    "2 Corinthians 11",
+    "Luke 20"
+  ],
+  "2026-04-08": [
+    "1 Samuel 7",
+    "Psalm 93",
+    "2 Corinthians 12",
+    "Luke 21"
+  ],
+  "2026-04-09": [
+    "1 Samuel 8",
+    "Psalm 94",
+    "2 Corinthians 13",
+    "Luke 22"
+  ],
+  "2026-04-10": [
+    "1 Samuel 9",
+    "Psalm 95",
+    "Galatians 1",
+    "Luke 23"
+  ],
+  "2026-04-11": [
+    "1 Samuel 11",
+    "Psalm 97",
+    "Galatians 3",
+    "John 1"
+  ],
+  "2026-04-12": [
+    "1 Samuel 11",
+    "Psalm 97",
+    "Galatians 3",
+    "John 1"
+  ],
+  "2026-04-13": [
+    "1 Samuel 12",
+    "Psalm 98",
+    "Galatians 4",
+    "John 2"
+  ],
+  "2026-04-14": [
+    "1 Samuel 13",
+    "Psalm 99",
+    "Galatians 5",
+    "John 3"
+  ],
+  "2026-04-15": [
+    "1 Samuel 14",
+    "Psalm 100",
+    "Galatians 6",
+    "John 4"
+  ],
+  "2026-04-16": [
+    "1 Samuel 15",
+    "Psalm 101",
+    "Ephesians 1",
+    "John 5"
+  ],
+  "2026-04-17": [
+    "1 Samuel 16",
+    "Psalm 102",
+    "Ephesians 2",
+    "John 6"
+  ],
+  "2026-04-18": [
+    "1 Samuel 18",
+    "Psalm 104",
+    "Ephesians 4",
+    "John 8"
+  ],
+  "2026-04-19": [
+    "1 Samuel 18",
+    "Psalm 104",
+    "Ephesians 4",
+    "John 8"
+  ],
+  "2026-04-20": [
+    "1 Samuel 19",
+    "Psalm 105",
+    "Ephesians 5",
+    "John 9"
+  ],
+  "2026-04-21": [
+    "1 Samuel 20",
+    "Psalm 106",
+    "Ephesians 6",
+    "John 10"
+  ],
+  "2026-04-22": [
+    "1 Samuel 21",
+    "Psalm 107",
+    "Philippians 1",
+    "John 11"
+  ],
+  "2026-04-23": [
+    "1 Samuel 22",
+    "Psalm 108",
+    "Philippians 2",
+    "John 12"
+  ],
+  "2026-04-24": [
+    "1 Samuel 23",
+    "Psalm 109",
+    "Philippians 3",
+    "John 13"
+  ],
+  "2026-04-25": [
+    "1 Samuel 25",
+    "Psalm 111",
+    "Colossians 1",
+    "John 15"
+  ],
+  "2026-04-26": [
+    "1 Samuel 25",
+    "Psalm 111",
+    "Colossians 1",
+    "John 15"
+  ],
+  "2026-04-27": [
+    "1 Samuel 26",
+    "Psalm 112",
+    "Colossians 2",
+    "John 16"
+  ],
+  "2026-04-28": [
+    "1 Samuel 27",
+    "Psalm 113",
+    "Colossians 3",
+    "John 17"
+  ],
+  "2026-04-29": [
+    "1 Samuel 28",
+    "Psalm 114",
+    "Colossians 4",
+    "John 18"
+  ],
+  "2026-04-30": [
+    "1 Samuel 29",
+    "Psalm 115",
+    "1 Thessalonians 1",
+    "John 19"
+  ],
+  "2026-05-01": [
+    "1 Samuel 30",
+    "Psalm 116",
+    "1 Thessalonians 2",
+    "John 20"
+  ],
+  "2026-05-02": [
+    "2 Samuel 1",
+    "Psalm 118",
+    "1 Thessalonians 4",
+    "Matthew 1"
+  ],
+  "2026-05-03": [
+    "2 Samuel 1",
+    "Psalm 118",
+    "1 Thessalonians 4",
+    "Matthew 1"
+  ],
+  "2026-05-04": [
+    "2 Samuel 2",
+    "Psalm 119",
+    "1 Thessalonians 5",
+    "Matthew 2"
+  ],
+  "2026-05-05": [
+    "2 Samuel 3",
+    "Psalm 120",
+    "2 Thessalonians 1",
+    "Matthew 3"
+  ],
+  "2026-05-06": [
+    "2 Samuel 4",
+    "Psalm 121",
+    "2 Thessalonians 2",
+    "Matthew 4"
+  ],
+  "2026-05-07": [
+    "2 Samuel 5",
+    "Psalm 122",
+    "2 Thessalonians 3",
+    "Matthew 5"
+  ],
+  "2026-05-08": [
+    "2 Samuel 6",
+    "Psalm 123",
+    "1 Timothy 1",
+    "Matthew 6"
+  ],
+  "2026-05-09": [
+    "2 Samuel 8",
+    "Psalm 125",
+    "1 Timothy 3",
+    "Matthew 8"
+  ],
+  "2026-05-10": [
+    "2 Samuel 8",
+    "Psalm 125",
+    "1 Timothy 3",
+    "Matthew 8"
+  ],
+  "2026-05-11": [
+    "2 Samuel 9",
+    "Psalm 126",
+    "1 Timothy 4",
+    "Matthew 9"
+  ],
+  "2026-05-12": [
+    "2 Samuel 10",
+    "Psalm 127",
+    "1 Timothy 5",
+    "Matthew 10"
+  ],
+  "2026-05-13": [
+    "2 Samuel 11",
+    "Psalm 128",
+    "1 Timothy 6",
+    "Matthew 11"
+  ],
+  "2026-05-14": [
+    "2 Samuel 12",
+    "Psalm 129",
+    "2 Timothy 1",
+    "Matthew 12"
+  ],
+  "2026-05-15": [
+    "2 Samuel 13",
+    "Psalm 130",
+    "2 Timothy 2",
+    "Matthew 13"
+  ],
+  "2026-05-16": [
+    "2 Samuel 15",
+    "Psalm 132",
+    "2 Timothy 4",
+    "Matthew 15"
+  ],
+  "2026-05-17": [
+    "2 Samuel 15",
+    "Psalm 132",
+    "2 Timothy 4",
+    "Matthew 15"
+  ],
+  "2026-05-18": [
+    "2 Samuel 16",
+    "Psalm 133",
+    "Titus 1",
+    "Matthew 16"
+  ],
+  "2026-05-19": [
+    "2 Samuel 17",
+    "Psalm 134",
+    "Titus 2",
+    "Matthew 17"
+  ],
+  "2026-05-20": [
+    "2 Samuel 18",
+    "Psalm 135",
+    "Titus 3",
+    "Matthew 18"
+  ],
+  "2026-05-21": [
+    "2 Samuel 19",
+    "Psalm 136",
+    "Philemon 1",
+    "Matthew 19"
+  ],
+  "2026-05-22": [
+    "2 Samuel 20",
+    "Psalm 137",
+    "Hebrews 1",
+    "Matthew 20"
+  ],
+  "2026-05-23": [
+    "2 Samuel 22",
+    "Psalm 139",
+    "Hebrews 3",
+    "Matthew 22"
+  ],
+  "2026-05-24": [
+    "2 Samuel 22",
+    "Psalm 139",
+    "Hebrews 3",
+    "Matthew 22"
+  ],
+  "2026-05-25": [
+    "2 Samuel 23",
+    "Psalm 140",
+    "Hebrews 4",
+    "Matthew 23"
+  ],
+  "2026-05-26": [
+    "2 Samuel 24",
+    "Psalm 141",
+    "Hebrews 5",
+    "Matthew 24"
+  ],
+  "2026-05-27": [
+    "1 Kings 1",
+    "Psalm 142",
+    "Hebrews 6",
+    "Matthew 25"
+  ],
+  "2026-05-28": [
+    "1 Kings 2",
+    "Psalm 143",
+    "Hebrews 7",
+    "Matthew 26"
+  ],
+  "2026-05-29": [
+    "1 Kings 3",
+    "Psalm 144",
+    "Hebrews 8",
+    "Matthew 27"
+  ],
+  "2026-05-30": [
+    "1 Kings 5",
+    "Psalm 146",
+    "Hebrews 10",
+    "Mark 1"
+  ],
+  "2026-05-31": [
+    "1 Kings 5",
+    "Psalm 146",
+    "Hebrews 10",
+    "Mark 1"
+  ],
+  "2026-06-01": [
+    "1 Kings 6",
+    "Psalm 147",
+    "Hebrews 11",
+    "Mark 2"
+  ],
+  "2026-06-02": [
+    "1 Kings 7",
+    "Psalm 148",
+    "Hebrews 12",
+    "Mark 3"
+  ],
+  "2026-06-03": [
+    "1 Kings 8",
+    "Psalm 149",
+    "Hebrews 13",
+    "Mark 4"
+  ],
+  "2026-06-04": [
+    "1 Kings 9",
+    "Psalm 150",
+    "James 1",
+    "Mark 5"
+  ],
+  "2026-06-05": [
+    "1 Kings 10",
+    "Psalm 1",
+    "James 2",
+    "Mark 6"
+  ],
+  "2026-06-06": [
+    "1 Kings 12",
+    "Psalm 3",
+    "James 4",
+    "Mark 8"
+  ],
+  "2026-06-07": [
+    "1 Kings 12",
+    "Psalm 3",
+    "James 4",
+    "Mark 8"
+  ],
+  "2026-06-08": [
+    "1 Kings 13",
+    "Psalm 4",
+    "James 5",
+    "Mark 9"
+  ],
+  "2026-06-09": [
+    "1 Kings 14",
+    "Psalm 5",
+    "1 Peter 1",
+    "Mark 10"
+  ],
+  "2026-06-10": [
+    "1 Kings 15",
+    "Psalm 6",
+    "1 Peter 2",
+    "Mark 11"
+  ],
+  "2026-06-11": [
+    "1 Kings 16",
+    "Psalm 7",
+    "1 Peter 3",
+    "Mark 12"
+  ],
+  "2026-06-12": [
+    "1 Kings 17",
+    "Psalm 8",
+    "1 Peter 4",
+    "Mark 13"
+  ],
+  "2026-06-13": [
+    "1 Kings 19",
+    "Psalm 10",
+    "2 Peter 1",
+    "Mark 15"
+  ],
+  "2026-06-14": [
+    "1 Kings 19",
+    "Psalm 10",
+    "2 Peter 1",
+    "Mark 15"
+  ],
+  "2026-06-15": [
+    "1 Kings 20",
+    "Psalm 11",
+    "2 Peter 2",
+    "Mark 16"
+  ],
+  "2026-06-16": [
+    "1 Kings 21",
+    "Psalm 12",
+    "2 Peter 3",
+    "Luke 1"
+  ],
+  "2026-06-17": [
+    "1 Kings 22",
+    "Psalm 13",
+    "1 John 1",
+    "Luke 2"
+  ],
+  "2026-06-18": [
+    "2 Kings 1",
+    "Psalm 14",
+    "1 John 2",
+    "Luke 3"
+  ],
+  "2026-06-19": [
+    "2 Kings 2",
+    "Psalm 15",
+    "1 John 3",
+    "Luke 4"
+  ],
+  "2026-06-20": [
+    "2 Kings 4",
+    "Psalm 17",
+    "1 John 5",
+    "Luke 6"
+  ],
+  "2026-06-21": [
+    "2 Kings 4",
+    "Psalm 17",
+    "1 John 5",
+    "Luke 6"
+  ],
+  "2026-06-22": [
+    "2 Kings 5",
+    "Psalm 18",
+    "2 John 1",
+    "Luke 7"
+  ],
+  "2026-06-23": [
+    "2 Kings 6",
+    "Psalm 19",
+    "3 John 1",
+    "Luke 8"
+  ],
+  "2026-06-24": [
+    "2 Kings 7",
+    "Psalm 20",
+    "Jude 1",
+    "Luke 9"
+  ],
+  "2026-06-25": [
+    "2 Kings 8",
+    "Psalm 21",
+    "Revelation 1",
+    "Luke 10"
+  ],
+  "2026-06-26": [
+    "2 Kings 9",
+    "Psalm 22",
+    "Revelation 2",
+    "Luke 11"
+  ],
+  "2026-06-27": [
+    "2 Kings 11",
+    "Psalm 24",
+    "Revelation 4",
+    "Luke 13"
+  ],
+  "2026-06-28": [
+    "2 Kings 11",
+    "Psalm 24",
+    "Revelation 4",
+    "Luke 13"
+  ],
+  "2026-06-29": [
+    "2 Kings 12",
+    "Psalm 25",
+    "Revelation 5",
+    "Luke 14"
+  ],
+  "2026-06-30": [
+    "2 Kings 13",
+    "Psalm 26",
+    "Revelation 6",
+    "Luke 15"
+  ],
+  "2026-07-01": [
+    "2 Kings 14",
+    "Psalm 27",
+    "Revelation 7",
+    "Luke 16"
+  ],
+  "2026-07-02": [
+    "2 Kings 15",
+    "Psalm 28",
+    "Revelation 8",
+    "Luke 17"
+  ],
+  "2026-07-03": [
+    "2 Kings 16",
+    "Psalm 29",
+    "Revelation 9",
+    "Luke 18"
+  ],
+  "2026-07-04": [
+    "2 Kings 18",
+    "Psalm 31",
+    "Revelation 11",
+    "Luke 20"
+  ],
+  "2026-07-05": [
+    "2 Kings 18",
+    "Psalm 31",
+    "Revelation 11",
+    "Luke 20"
+  ],
+  "2026-07-06": [
+    "2 Kings 19",
+    "Psalm 32",
+    "Revelation 12",
+    "Luke 21"
+  ],
+  "2026-07-07": [
+    "2 Kings 20",
+    "Psalm 33",
+    "Revelation 13",
+    "Luke 22"
+  ],
+  "2026-07-08": [
+    "2 Kings 21",
+    "Psalm 34",
+    "Revelation 14",
+    "Luke 23"
+  ],
+  "2026-07-09": [
+    "2 Kings 22",
+    "Psalm 35",
+    "Revelation 15",
+    "Luke 24"
+  ],
+  "2026-07-10": [
+    "2 Kings 23",
+    "Psalm 36",
+    "Revelation 16",
+    "John 1"
+  ],
+  "2026-07-11": [
+    "2 Kings 25",
+    "Psalm 38",
+    "Revelation 18",
+    "John 3"
+  ],
+  "2026-07-12": [
+    "2 Kings 25",
+    "Psalm 38",
+    "Revelation 18",
+    "John 3"
+  ],
+  "2026-07-13": [
+    "1 Chronicles 1",
+    "Psalm 39",
+    "Revelation 19",
+    "John 4"
+  ],
+  "2026-07-14": [
+    "1 Chronicles 2",
+    "Psalm 40",
+    "Revelation 20",
+    "John 5"
+  ],
+  "2026-07-15": [
+    "1 Chronicles 3",
+    "Psalm 41",
+    "Revelation 21",
+    "John 6"
+  ],
+  "2026-07-16": [
+    "1 Chronicles 4",
+    "Psalm 42",
+    "Revelation 22",
+    "John 7"
+  ],
+  "2026-07-17": [
+    "1 Chronicles 5",
+    "Psalm 43",
+    "Acts 1",
+    "John 8"
+  ],
+  "2026-07-18": [
+    "1 Chronicles 7",
+    "Psalm 45",
+    "Acts 3",
+    "John 10"
+  ],
+  "2026-07-19": [
+    "1 Chronicles 7",
+    "Psalm 45",
+    "Acts 3",
+    "John 10"
+  ],
+  "2026-07-20": [
+    "1 Chronicles 8",
+    "Psalm 46",
+    "Acts 4",
+    "John 11"
+  ],
+  "2026-07-21": [
+    "1 Chronicles 9",
+    "Psalm 47",
+    "Acts 5",
+    "John 12"
+  ],
+  "2026-07-22": [
+    "1 Chronicles 10",
+    "Psalm 48",
+    "Acts 6",
+    "John 13"
+  ],
+  "2026-07-23": [
+    "1 Chronicles 11",
+    "Psalm 49",
+    "Acts 7",
+    "John 14"
+  ],
+  "2026-07-24": [
+    "1 Chronicles 12",
+    "Psalm 50",
+    "Acts 8",
+    "John 15"
+  ],
+  "2026-07-25": [
+    "1 Chronicles 14",
+    "Psalm 52",
+    "Acts 10",
+    "John 17"
+  ],
+  "2026-07-26": [
+    "1 Chronicles 14",
+    "Psalm 52",
+    "Acts 10",
+    "John 17"
+  ],
+  "2026-07-27": [
+    "1 Chronicles 15",
+    "Psalm 53",
+    "Acts 11",
+    "John 18"
+  ],
+  "2026-07-28": [
+    "1 Chronicles 16",
+    "Psalm 54",
+    "Acts 12",
+    "John 19"
+  ],
+  "2026-07-29": [
+    "1 Chronicles 17",
+    "Psalm 55",
+    "Acts 13",
+    "John 20"
+  ],
+  "2026-07-30": [
+    "1 Chronicles 18",
+    "Psalm 56",
+    "Acts 14",
+    "John 21"
+  ],
+  "2026-07-31": [
+    "1 Chronicles 19",
+    "Psalm 57",
+    "Acts 15",
+    "Matthew 1"
+  ],
+  "2026-08-01": [
+    "1 Chronicles 21",
+    "Psalm 59",
+    "Acts 17",
+    "Matthew 3"
+  ],
+  "2026-08-02": [
+    "1 Chronicles 21",
+    "Psalm 59",
+    "Acts 17",
+    "Matthew 3"
+  ],
+  "2026-08-03": [
+    "1 Chronicles 22",
+    "Psalm 60",
+    "Acts 18",
+    "Matthew 4"
+  ],
+  "2026-08-04": [
+    "1 Chronicles 23",
+    "Psalm 61",
+    "Acts 19",
+    "Matthew 5"
+  ],
+  "2026-08-05": [
+    "1 Chronicles 24",
+    "Psalm 62",
+    "Acts 20",
+    "Matthew 6"
+  ],
+  "2026-08-06": [
+    "1 Chronicles 25",
+    "Psalm 63",
+    "Acts 21",
+    "Matthew 7"
+  ],
+  "2026-08-07": [
+    "1 Chronicles 26",
+    "Psalm 64",
+    "Acts 22",
+    "Matthew 8"
+  ],
+  "2026-08-08": [
+    "1 Chronicles 28",
+    "Psalm 66",
+    "Acts 24",
+    "Matthew 10"
   ]
 }
